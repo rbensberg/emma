@@ -1,0 +1,58 @@
+baseURL = 'http://emmahulls.com/'
+languageCode = 'en-us'
+title = 'Emma Hulls'
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Copyright
+copyright = "&copy;2022 Emma Hulls"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Emma Hulls"
+  description = "Emma Hulls is running for Head Girl."
+  shareImage = "images/emma.png"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/emma.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      # file = "videos/background.mp4"
+      youtubeId = "knc2Q_ZNUvw"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "More Info"
+
+    [[params.links.list1.link]]
+        text = "Campaign Video"
+        url = "#"
+
+    [[params.links.list1.link]]
+        text = "Email"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
