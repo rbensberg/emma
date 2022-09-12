@@ -1,4 +1,4 @@
-baseURL = 'http://emmahulls.com/'
+baseURL = 'https://emmahulls.com/'
 languageCode = 'en-us'
 title = 'Emma Hulls'
 theme = "hugo-split-theme"
