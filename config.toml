@@ -15,8 +15,8 @@ copyright = "&copy;2022 Emma Hulls"
 
   # Metadata for search engines and social sharing
   author = "Emma Hulls"
-  description = "Emma Hulls is running for Head Girl."
-  shareImage = "images/emma.png"
+  description = "Emma Hulls is running for Ambassador."
+  shareImage = "images/emma2.jpg"
 
   # Favicon
   favicon = "favicon.ico"
@@ -27,7 +27,7 @@ copyright = "&copy;2022 Emma Hulls"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/emma.jpg"
+      file = "images/emma2.jpg"
       position = "center center"
 
     # Video
@@ -46,10 +46,6 @@ copyright = "&copy;2022 Emma Hulls"
 
     [[params.links.list1.link]]
         text = "Campaign Video"
-        url = "#"
-
-    [[params.links.list1.link]]
-        text = "Email"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.

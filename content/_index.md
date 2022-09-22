@@ -1,6 +1,6 @@
 +++
 title = "Emma Hulls"
-tagline = "Running for Head Girl."
+tagline = "Running for Ambassador."
 +++
 
-I am running for Head Girl. Please vote for me!
+I am running for Day's Lane Primary School Ambassador. Please vote for me!
